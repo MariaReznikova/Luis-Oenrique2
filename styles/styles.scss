@@ -178,11 +178,17 @@ header{
 
 }
 .third-section{
+    padding-top: 120px;
+    background-color: #f6f6f6;
+    margin: 125px 0 117px 0;
+    
+    
     h2{
         font-family: 'Asapbold';
         color: #6f6f6f;
         font-size: 46px;
         margin-bottom: 60px;
+    
         text-align: center;
         
 
@@ -195,7 +201,30 @@ header{
         img{
             margin-left: 23%;
             margin-bottom: 15px;
+           
+
         }
+    }
+}
+.section-fourth{
+    text-align: center;
+    h2{
+        font-family: 'Asapbold';
+        font-size: 46px;
+        color: #717171;
+        
+        
+
+    }
+    .scale{
+        max-width: 1020px;
+        width: 100%;
+        background-image: url(../images/skilboard.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 425px;
+        margin-bottom: 120px;
+
     }
 }
 

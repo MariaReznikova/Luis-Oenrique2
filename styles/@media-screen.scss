@@ -36,6 +36,11 @@
     .bg h1{
         margin-top: 0px;
     }
+    .section-fourth .scale{
+        height: 289px;
+        width: 100%;
+        margin-bottom: 85px;
+    }
 }
 
 @media (max-width: 414px){
@@ -76,6 +81,26 @@
              margin-bottom: 15px;
         }
     }
+    .section-second .imagebg{
+        height: 287px;
+    }
+    .third-section .justify-content-around img {
+        margin-left: 9%;
+        margin-bottom: 15px;
+    }
+    .third-section {
+    margin: 50px 0 40px 0;
+    padding-top: 25px;
+    }
+    .third-section .justify-content-around h4 {
+        margin-bottom: 56px;
+        font-size: 16px;
+    }
+    .section-fourth .scale{
+        height: 161px;
+        width: 100%;
+        margin-bottom: 50px;
+    }
 
 }
 @media (max-width: 375px){
@@ -114,6 +139,7 @@
         
         width: 84%;
         max-width: 315px;
+        height: 245px;
         
     }
     .section-second h2 {
@@ -124,6 +150,32 @@
     }
     .section-second button{
         margin-bottom: 15px;
+    }
+    .third-section{
+        margin: 39px 0 30px 0;
+        h2{
+            font-size: 30px;
+        }
+    }
+    
+    .third-section .justify-content-around img {
+        margin-left: 26%;
+        margin-bottom: 15px;
+        width: 51%;
+    }
+    .third-section .justify-content-around h4 {
+        margin-bottom: 56px;
+        font-size: 16px;
+    }
+    .section-fourth{
+        h2{
+            font-size: 30px;
+        }
+    }
+    .section-fourth .scale{
+        height: 147px;
+        width: 100%;
+        margin-bottom: 40px;
     }
 }
 @media (max-width: 360px){
@@ -147,6 +199,20 @@
     .section-second button{
         margin-bottom: 15px;
         
+    }
+    .third-section .justify-content-around img {
+        margin-left: 24%;
+        margin-bottom: 15px;
+        width: 36%;
+    }
+    .third-section .justify-content-around h4 {
+        margin-bottom: 56px;
+        font-size: 13px;
+    }
+    .section-fourth .scale{
+        height: 144px;
+        width: 100%;
+        margin-bottom: 50px;
     }
 
 }
@@ -178,7 +244,21 @@
         height: 324px;
     }
     .section-second .imagebg{
-        height: 240px;
+        height: 205px;
+    }
+    .third-section .justify-content-around img {
+        margin-left: 40%;
+        margin-bottom: 15px;
+        width: 30%;
+    }
+    .third-section .justify-content-around h4 {
+        margin-bottom: 56px;
+        font-size: 13px;
+    }
+    .section-fourth .scale{
+        height: 122px;
+        width: 100%;
+        margin-bottom: 37px;
     }
 }
     

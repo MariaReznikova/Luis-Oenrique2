@@ -161,6 +161,12 @@ header a:hover {
   color: #ffffff;
 }
 
+.third-section {
+  padding-top: 120px;
+  background-color: #f6f6f6;
+  margin: 125px 0 117px 0;
+}
+
 .third-section h2 {
   font-family: 'Asapbold';
   color: #6f6f6f;
@@ -177,5 +183,25 @@ header a:hover {
 .third-section .justify-content-around img {
   margin-left: 23%;
   margin-bottom: 15px;
+}
+
+.section-fourth {
+  text-align: center;
+}
+
+.section-fourth h2 {
+  font-family: 'Asapbold';
+  font-size: 46px;
+  color: #717171;
+}
+
+.section-fourth .scale {
+  max-width: 1020px;
+  width: 100%;
+  background-image: url(../images/skilboard.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 425px;
+  margin-bottom: 120px;
 }
 /*# sourceMappingURL=styles.css.map */
