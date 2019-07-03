@@ -1,0 +1,168 @@
+@media screen and (max-width: 1024px) {
+  .container-fluid {
+    padding: 0;
+  }
+  .bg header li {
+    font-size: 16px;
+  }
+  .bg .pic {
+    height: 550px;
+  }
+  .section-second h2 {
+    text-align: center;
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 768px) {
+  .pic.col-md-12 {
+    background-size: 67%;
+  }
+  .section-second h2 {
+    text-align: center;
+    font-size: 30px;
+  }
+  .bg h1 {
+    margin-top: 0px;
+  }
+}
+
+@media (max-width: 414px) {
+  .bg .row {
+    display: initial;
+  }
+  .bg header li {
+    margin: 24px 46px 0px 18px;
+    font-size: 13px;
+  }
+  .logo img {
+    margin: 40px 0 0 31px;
+    width: 136px;
+  }
+  .bg .info h1 {
+    font-size: 55px;
+    margin-top: 0px;
+  }
+  .bg .info h4 {
+    font-size: 13px;
+    text-align: center;
+  }
+  .bg .info button {
+    max-width: 135px;
+    font-size: 14px;
+    padding: 10px;
+  }
+  .bg .pic {
+    background-size: 100%;
+    height: 428px;
+  }
+  .section-second {
+    text-align: center;
+  }
+  .section-second button {
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 375px) {
+  .bg {
+    margin-bottom: 30px;
+  }
+  .bg .info h1 {
+    font-size: 50px;
+  }
+  .bg .info h4 {
+    font-size: 16px;
+  }
+  .bg .row {
+    display: initial;
+  }
+  .logo img {
+    margin: 41px 0 0 12px;
+    width: 145%;
+  }
+  .bg li {
+    margin: 27px 33px -11px 18px;
+  }
+  .bg li:hover {
+    border-bottom: solid 2px transparent;
+  }
+  .bg .info button {
+    max-width: 135px;
+    font-size: 14px;
+    padding: 10px;
+  }
+  .pic.col-md-12 {
+    background-size: 99%;
+    height: 378px;
+  }
+  .section-second .imagebg {
+    width: 84%;
+    max-width: 315px;
+  }
+  .section-second h2 {
+    font-size: 34px;
+  }
+  .section-second {
+    text-align: center;
+  }
+  .section-second button {
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 360px) {
+  .bg .info h1 {
+    font-size: 46px;
+  }
+  .bg .info h4 {
+    font-size: 13px;
+  }
+  .bg .info button {
+    max-width: 120px;
+    font-size: 13px;
+    padding: 6px;
+  }
+  .section-second h2 {
+    font-size: 34px;
+  }
+  .section-second {
+    text-align: center;
+  }
+  .section-second button {
+    margin-bottom: 15px;
+  }
+}
+
+@media (max-width: 320px) {
+  .bg .info h1 {
+    font-size: 43px;
+  }
+  .bg .info button {
+    max-width: 107px;
+    font-size: 13px;
+    padding: 6px;
+  }
+  .logo img {
+    margin: 41px 0 0 12px;
+    width: 100%;
+  }
+  .bg header li {
+    margin: 18px 46px 0px 18px;
+    font-size: 13px;
+  }
+  .bg .info h1 {
+    font-size: 40px;
+  }
+  .bg .info h4 {
+    font-size: 12px;
+  }
+  .pic.col-md-12 {
+    background-size: 100%;
+    height: 324px;
+  }
+  .section-second .imagebg {
+    height: 240px;
+  }
+}
+/*# sourceMappingURL=@media-screen.css.map */
